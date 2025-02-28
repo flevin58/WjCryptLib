@@ -16,3 +16,7 @@ Products/
 # Xcode files #
 xcuserdata/
 .DS_Store
+
+# Zig files #
+.zig-cache/
+zig-out/
